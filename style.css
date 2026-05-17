@@ -1,0 +1,16 @@
+body{
+background:#111;
+color:#fff;
+font-family:Arial;
+text-align:center;
+padding-top:100px;
+}
+
+.btn{
+display:inline-block;
+padding:14px 28px;
+background:#7c3aed;
+color:#fff;
+text-decoration:none;
+border-radius:12px;
+}
